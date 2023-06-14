@@ -1,18 +1,21 @@
 {
-  name: Kikicord;
-  description: Kiki theme!!!
-  authors:[
-    {
-      name: Cye;
-      id: 906431263584419861;
-    }
-  ],
-  spec: 2;
-  semanticColors: {
-    "HEADER_PRIMARY": ["#e68a00"]
-    
-  }
-  "background": {
+	name:Kikicord;
+	description: kiki theme;
+	authors: [ 
+	{
+			name: Cye;
+		  id: 906431263584419861;
+	}
+],
+spec: 2;
+semanticColors: { 
+							"HEADER_PRIMARY":  ["#e68a00", "#E7D6CE", "#A07D6C"]
+									                  //dark, light, amoled        
+};
+rawColors: { 
+					"PRIMARY_500": "#663d00"
+},
+"background": {
     "blur": 0.6,
     "url": "https://media.discordapp.net/attachments/1045184280982204496/1118615946622419014/859912760540004402.png",
     "alpha": 0.4
