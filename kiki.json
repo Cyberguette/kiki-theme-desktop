@@ -9,8 +9,7 @@
 ]
 "spec": 2
 "semanticColors": { 
-	      "HEADER_PRIMARY":  ["#e68a00", "#e68a00", "#e68a00"]
-	                              //dark, light, amoled        
+	      "HEADER_PRIMARY":  ["#e68a00", "#e68a00", "#e68a00"]    
 }
 "rawColors": { 
 	  "PRIMARY_500": "#663d00"
