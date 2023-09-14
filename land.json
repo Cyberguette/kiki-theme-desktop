@@ -1,0 +1,22 @@
+{
+  "name":"land",
+  "description": "yea",
+  "authors": [ 
+  {
+    "name": "Cye",
+    "id": "906431263584419861"
+  }
+],
+"spec": 2,
+"semanticColors": { 
+	      "HEADER_PRIMARY":  ["#F4843DA4", "#F4843DA4", "#F4843DA4"]    
+},
+"rawColors": { 
+	  "PRIMARY_500": "#1C226EB3"
+},
+"background": {
+    "blur": 0.6,
+    "url": "https://media.discordapp.net/attachments/1088924848132206593/1090367495648575608/6331394.jpg",
+    "alpha": 0.75
+    }
+}
